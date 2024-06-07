@@ -8,7 +8,7 @@
 - The goal of the project is to answer a set of questions about the store's business performance and help in its growth by making better decisions.
 
 # ✤ Tool Used:
-MySQL
+- MySQL
 
 # ✤ Tables Used:
 - album
